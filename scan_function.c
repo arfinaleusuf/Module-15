@@ -1,8 +1,8 @@
 #include<stdio.h>
-void printf(int x)
-{
-    // code how to take input
-}
+// void printf(int x)
+// {
+//     // code how to take input
+// }
 int main()
 {
     int x;
